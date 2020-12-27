@@ -11,3 +11,7 @@ The analysis results for all tickers in 2017 and 2018 are shown below. It can be
 ![VBA_Challenge_2017.png](Resources/VBA_Challenge_2017.PNG)
 
 ![VBA_Challenge_2018.png](Resources/VBA_Challenge_2018.PNG)
+
+The execution time results comparison between the original script and the refactored script are shown below:
+
+![Execution_Time_2017_Original]
